@@ -234,7 +234,7 @@ ul {
 
 /* =============================== Contact US ============================= */
 .contact {
-    background: url(/assets/img/contact.jpg) no-repeat;
+    background: url(/assets/img/road-3.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -242,7 +242,7 @@ ul {
 }
 
 ::placeholder {
-    color: var(--light-gray-color) !important;
+    color: var(--white-color) !important;
     opacity: 1;
 }
 
