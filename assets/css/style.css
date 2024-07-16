@@ -3,11 +3,7 @@
     --white-color: white;
     --black-color: black;
     --gray-color: #8a908c;
-    --silver-color: #b0b3b3;
-    --brown-color: orangered;
     --green-color: #3c588b;
-    --blue-color: #1c4290;
-    --light-black-color: #111111;
     --light-gray-color: #b6b194;
     --light-green-color: orangered;
     --light-brown-color: #d17623;
@@ -51,24 +47,8 @@ ul {
     background: var(--gray-color) !important;
 }
 
-.silver-bg {
-    background: var(--silver-color) !important;
-}
-
-.brown-bg {
-    background: var(--brown-color) !important;
-}
-
 .green-bg {
     background: var(--green-color) !important;
-}
-
-.blue-bg {
-    background: var(--blue-color) !important;
-}
-
-.light-black-bg {
-    background: var(--light-black-color) !important;
 }
 
 .light-gray-bg {
@@ -104,24 +84,8 @@ ul {
     color: var(--gray-color) !important;
 }
 
-.silver-text {
-    color: var(--silver-color) !important;
-}
-
-.brown-text {
-    color: var(--brown-color) !important;
-}
-
 .green-text {
     color: var(--green-color) !important;
-}
-
-.blue-text {
-    color: var(--blue-color) !important;
-}
-
-.light-black-text {
-    color: var(--light-black-color) !important;
 }
 
 .light-gray-text {
@@ -257,7 +221,7 @@ ul {
     animation: text var(--animate-speed) forwards ease-in 1.5s;
 }
 
-/* Keyframes */
+/* ================================ Keyframes ================================*/
 @keyframes heading {
     to {
         transform: translateY(0);
