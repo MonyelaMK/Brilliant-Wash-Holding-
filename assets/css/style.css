@@ -2,8 +2,8 @@
 :root {
     --white-color: white;
     --black-color: black;
-    --gray-color: #8a908c;
-    --green-color: #3c588b;
+    --gray-color: #9c9589;
+    --green-color: #63c6f4;
     --light-gray-color: #b6b194;
     --light-green-color: orangered;
     --light-brown-color: #d17623;
@@ -183,7 +183,7 @@ ul {
 
 /* ============================= Services body =============================== */
 .main {
-    background: url(/assets/img/car-2.jpg) no-repeat;
+    background: url(/assets/img/couch-4.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     height: 90%;
@@ -198,7 +198,7 @@ ul {
 
 /* =============================== Contact US ============================= */
 .contact {
-    background: url(/assets/img/road-3.jpg) no-repeat;
+    background: url(/assets/img/contact-1.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
